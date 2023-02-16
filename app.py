@@ -4,5 +4,3 @@ import urllib.request
 import base64
 
 app = Flask(__name__)
-
-
